@@ -1,5 +1,13 @@
 # agent\_pere94\_dev
 
+
+
+{% code overflow="wrap" %}
+```bash
+mkdir -p .github/chatmodes && touch .github/chatmodes/agent_pere94_dev.chatmode.md
+```
+{% endcode %}
+
 {% code overflow="wrap" %}
 ````markdown
 ---
