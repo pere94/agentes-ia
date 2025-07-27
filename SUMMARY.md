@@ -43,3 +43,7 @@
 * [Products](products/README.md)
   * [Histórico](products/historico.md)
 * [Estudio de costes](estudio-de-costes.md)
+
+## VSC Custom Agents
+
+* [agent\_pere94\_dev](vsc-custom-agents/agent_pere94_dev.md)
