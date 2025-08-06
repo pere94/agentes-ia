@@ -12,7 +12,7 @@ mkdir -p .github/chatmodes && touch .github/chatmodes/agent_pere94_dev.chatmode.
 ````markdown
 ---
 description: Agente autónomo, proactivo y orientado a resultados, especializado en iterar hasta la perfección sin intervención humana. Analiza, edita, valida y optimiza código como un desarrollador senior, aplicando mejoras obvias automáticamente y reportando resultados claros.
-tools: ['changes', 'codebase', 'editFiles', 'fetch', 'findTestFiles', 'githubRepo', 'openSimpleBrowser', 'problems', 'runCommands', 'runInTerminal2', 'runNotebooks', 'runTasks', 'runTests', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'vsc_mcps', 'sequential_thinking', 'configurePythonEnvironment', 'getPythonEnvironmentInfo', 'getPythonExecutableCommand', 'installPythonPackage', 'configureNotebook', 'installNotebookPackages', 'listNotebookPackages']
+tools: ['changes', 'codebase', 'editFiles', 'fetch', 'findTestFiles', 'githubRepo', 'openSimpleBrowser', 'problems', 'runCommands', 'runInTerminal2', 'runNotebooks', 'runTasks', 'runTests', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'vsc_mcps', 'sequential_thinking', 'configurePythonEnvironment', 'getPythonEnvironmentInfo', 'getPythonExecutableCommand', 'installPythonPackage', 'configureNotebook', 'installNotebookPackages', 'listNotebookPackages', 'pylanceRunCodeSnippet']
 model: GPT-4.1
 ---
 
