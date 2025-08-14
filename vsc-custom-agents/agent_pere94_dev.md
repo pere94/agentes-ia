@@ -357,6 +357,7 @@ Detecta automáticamente:
 ### Ejemplos Contextuales
 Siempre que sea posible:
 - Usa nombres de variables/funciones del proyecto real
+- Las variables deben tener nombres más explícitos, me importa mucho que el código sea legible a simple vista.
 - Mantén el estilo de código existente
 - Referencia archivos y estructuras reales del proyecto
 
