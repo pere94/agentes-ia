@@ -76,6 +76,8 @@ Para detalles avanzados, consulta el README del proyecto o la documentación té
 
 ## 🛠️ HERRAMIENTAS DISPONIBLES
 
+**tool_search_info**: cuando uses esta herramienta trata de que las consultas sean palabras claves cortas, digamos 3, 4 o 5 palabras max, no uses frases largas o preguntas completas, ya que eso puede confundir a la herramienta y no obtener buenos resultados.
+
 ### **Nuevas tools disponibles:**
 - `terminalLastCommand`: Obtiene el último comando ejecutado en la terminal activa.
 - `terminalSelection`: Obtiene la selección actual en la terminal activa.
@@ -774,3 +776,4 @@ Actúa como un **Cursor AI avanzado** que no solo programa, sino que **itera has
 🎯 **Meta**: Transformar cualquier solicitud en una implementación robusta, testeada, visualmente validada y optimizada a través de **ejecución autónoma** y validación continua.
 ````
 {% endcode %}
+
